@@ -13,7 +13,7 @@ I'm currently attending RIT (Rochester Institute of Technology) studying a BS in
 - 🌱 I'm extremely keen on exploring all kinds of problems and pieces of knowledge
 - 🧪 I dream of one day hopefully becoming a prominent researcher in as many fields as I could dip my hands in (call it polymathy or whatever your heart desires)
 
-📧 Get in touch
+# 📧 Get in touch
 
 I'm always open to collaborating and meeting new people. You can reach me through any of the following:
 
